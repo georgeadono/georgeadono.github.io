@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="ionicon" viewBox="0 0 512 512" width="42" height="42">
+  <defs>
+    <linearGradient id="paint0_linear" x1="0" y1="0" x2="512" y2="512" gradientUnits="userSpaceOnUse">
+      <stop offset="0.259336" stop-color="#FFDB6E"/>
+      <stop offset="1" stop-color="#FFBC5E"/>
+    </linearGradient>
+  </defs>
+  <circle cx="160" cy="96" r="48" fill="none" stroke="url(#paint0_linear)" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" opacity="0.15"/>
+  <circle cx="160" cy="416" r="48" fill="none" stroke="url(#paint0_linear)" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" opacity="0.15"/>
+  <path fill="none" stroke="url(#paint0_linear)" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" d="M160 368V144" opacity="0.15"/>
+  <circle cx="352" cy="160" r="48" fill="none" stroke="url(#paint0_linear)" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" opacity="0.15"/>
+  <path d="M352 208c0 128-192 48-192 160" fill="none" stroke="url(#paint0_linear)" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" opacity="0.15"/>
+</svg>
